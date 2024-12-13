@@ -1,0 +1,1 @@
+# OpenGL-Solar-Systems-Simulator-Visual-Studio-Build-Version
