@@ -6,6 +6,8 @@
 
 - the sln and vcxproj is there, so use the visual studio ide to open / compile it there
 
+# in the case that you are not / can not use visual studio go to this repo instead: https://github.com/Hir0Yat0/OpenGL-Solar-Systems-Simulations
+
 ## Notes: All planets are size accurate but scaled down, yes some planets are that small compared to others.
 
 ## The distances are not too scaled tho, they're so huuuugggeeee and space is truly really big!
