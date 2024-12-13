@@ -1,0 +1,6 @@
+// scale 1 : 100,000
+
+Planet          Diameter (km)       Scale Diameter (km)             Distance From Sun (km)           Scale Distance From Sun (km)
+
+Sun             1,391,400                                           -                               -
+
