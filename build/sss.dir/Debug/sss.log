@@ -1,0 +1,37 @@
+﻿  Camera.cpp
+  FrameManager.cpp
+  GLDrawWindow.cpp
+  IDManager.cpp
+  Object3D.cpp
+  Object3DTracker.cpp
+  OrbitalMovement.cpp
+  OrbitalObject3D.cpp
+  OrbitalObjectFactory.cpp
+  RenderGroup3D.cpp
+  RenderGroup3DManager.cpp
+  Shader.cpp
+  ShaderLoader.cpp
+  Shape.cpp
+C:\dev\OpenGL-Solar-Systems-Simulations\src\Shape.cpp(84,86): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+  SphereFactory.cpp
+  SphereObjectFactory.cpp
+  SphereRenderGroup.cpp
+  TestBackground.cpp
+  TestCamera.cpp
+  TestLightings.cpp
+  Generating Code...
+  Compiling...
+  TestMorePlanets.cpp
+  TestOrbitAroundObject.cpp
+  TestOrbitalObjects.cpp
+  TestRender2Objects.cpp
+  TestRenderGroup3D.cpp
+  TestSkyBoxTracking.cpp
+  TestSphereRender.cpp
+  Texture.cpp
+  TextureLoader.cpp
+  main.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  sss.vcxproj -> C:\dev\OpenGL-Solar-Systems-Simulations\build\Debug\sss.exe
