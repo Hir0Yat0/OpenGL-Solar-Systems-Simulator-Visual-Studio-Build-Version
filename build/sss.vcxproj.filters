@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\GLDrawWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TextureLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\SphereFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\ShaderLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestSphereRender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\FrameManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\IDManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Object3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\RenderGroup3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\SphereObjectFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\SphereRenderGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestRenderGroup3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestRender2Objects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestBackground.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\RenderGroup3DManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\OrbitalMovement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\OrbitalObject3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\OrbitalObjectFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestOrbitalObjects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestOrbitAroundObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestSkyBoxTracking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Object3DTracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestMorePlanets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestLightings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\glmlib.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\GLDrawWindow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Shape.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TextureLoader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\ShapeFactory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\SphereFactory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Tester.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\ShaderLoader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestSphereRender.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\FrameManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\IDManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Object3D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\RenderGroup3D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\SphereObjectFactory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\SphereRenderGroup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Object3DFactory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestRenderGroup3D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Tests.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestRender2Objects.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestCamera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestBackground.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\RenderGroup3DManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\lib3d.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\OrbitalMovement.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\OrbitalObject3D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\OrbitalObjectFactory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestOrbitalObjects.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestOrbitAroundObject.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\RenderGroupID.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestSkyBoxTracking.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Object3DTracker.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\PlanetsGroupLoader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestMorePlanets.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\DebugLevel.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\Scales.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestActivation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\OpenGL-Solar-Systems-Simulations\src\TestLightings.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\OpenGL-Solar-Systems-Simulations\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8EE3ED95-D481-3CA7-8197-494C201DFE2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{90C8D1CE-C74A-3F76-875B-B472D6FC27F9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
