@@ -1,0 +1,3 @@
+C:/dev/OpenGL-Solar-Systems-Simulations/build/CMakeFiles/sss.dir
+C:/dev/OpenGL-Solar-Systems-Simulations/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/OpenGL-Solar-Systems-Simulations/build/CMakeFiles/ZERO_CHECK.dir
